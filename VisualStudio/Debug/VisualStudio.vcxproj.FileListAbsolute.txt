@@ -1,0 +1,2 @@
+D:\Users\fsilva\Pessoal\OneDrive\GitHub\Cursos\Linguagem_C\VisualStudio\Debug\VisualStudio.exe
+D:\Users\fsilva\Pessoal\OneDrive\GitHub\Cursos\Linguagem_C\VisualStudio\Debug\VisualStudio.pdb
