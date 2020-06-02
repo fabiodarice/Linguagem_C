@@ -14,11 +14,14 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Exercícios">
-      <UniqueIdentifier>{309544ef-4c74-4170-bb34-6849bfd01d8a}</UniqueIdentifier>
+      <UniqueIdentifier>{c8092821-ff02-4169-9ae8-cf3e2312fca1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Exercícios\PrimeiroPrograma.c">
+      <Filter>Exercícios</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercícios\SegundoPrograma.c">
       <Filter>Exercícios</Filter>
     </ClCompile>
   </ItemGroup>

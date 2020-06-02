@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{dd6bb6f7-e600-453b-9d45-1cd288e8faaa}</ProjectGuid>
+    <ProjectGuid>{a349eff8-b703-4f35-ab67-c92966616ba4}</ProjectGuid>
     <RootNamespace>VisualStudio</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exercícios\PrimeiroPrograma.c" />
+    <ClCompile Include="Exercícios\SegundoPrograma.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
