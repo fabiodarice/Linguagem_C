@@ -3,4 +3,5 @@
 
 void main() {
 	printf("Ola, Mundo!\n");
+	system("pause");
 }
